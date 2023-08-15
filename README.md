@@ -5,21 +5,7 @@ App is a fun and interactive game where players have to answer questions within 
 ## Screenshots
 
 
-![telegram-cloud-photo-size-2-5384598571011132778-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/35dae755-2974-4b61-b2e1-6b3637677bf5)
-
-![telegram-cloud-photo-size-2-5384598571011132781-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/fe94ebe4-79e8-4c37-95ef-c1305da917b1)
-
-
-![telegram-cloud-photo-size-2-5384598571011132782-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/a6cf03a9-369b-4852-9616-53018fb54e48)
-
-
-![telegram-cloud-photo-size-2-5384598571011132780-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/f440836c-a209-427c-a26c-3c8c2cf4e444)
-
-
-![telegram-cloud-photo-size-2-5384598571011132779-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/199ff004-b3cc-4157-889b-1c8c4eaf3b58)
-
-
-
+![IMG_4373 (1)](https://github.com/Vanopr/BOMB-Game/assets/118197831/b6895ebe-a52e-4c22-8206-daaca756a04f)
 
 
 
